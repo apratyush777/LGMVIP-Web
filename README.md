@@ -15,3 +15,10 @@ Added task can also be edited/updated
 Tasks can be marked as done just by clicking on the task.
 
 ![4](https://user-images.githubusercontent.com/73351827/153224316-c8785c84-b6e0-4ca2-946f-00dcaaabeb14.JPG)
+
+# Calculator
+
+This is a calculator made using HTML, CSS and JavaScript
+
+![1](https://user-images.githubusercontent.com/73351827/154057628-8b025abf-8ebe-46c1-96d2-caa1b7edf62d.JPG)
+![11](https://user-images.githubusercontent.com/73351827/154057678-82c204fa-0e6a-4fa5-bb59-1c920b05ac84.JPG)
